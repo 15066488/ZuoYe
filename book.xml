@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+  <book id="1" name="第一本书">
+    <name>遇见未知的自己</name>
+    <author>张德芬</author>
+    <year>2014</year>
+    <price>109</price>
+  </book>
+  <book id="2" name="第二本书">
+    <name>双城记</name>
+    <author>狄更斯</author>
+    <year>2007</year>
+    <price>29</price>
+  </book>
+</bookstore>
